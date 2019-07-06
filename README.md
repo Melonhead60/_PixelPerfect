@@ -40,3 +40,7 @@ A green theme sporting the map and text box from Link to The Past.
 
 A "kinda" blue theme using the message box from final fantasy, with a feint decal of the old jobs from final fantasy 3. PS: The chocobo in the corner gets happy when you're about to play a game.
 
+
+# Credit
+Special thanks to [Grim](http://spritedatabase.net/forums/viewtopic.php?f=4&t=1265) for making the console icons, and [Bobby Schroeder](https://twitter.com/ponettplus/status/686787784930160640) for the All Games icon. the Retropie, Last Played, and Favorites icons were made by yours truly.
+
