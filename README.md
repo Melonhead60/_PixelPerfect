@@ -3,7 +3,7 @@ Emulation station themes built for 320x240 resolution screens.
 
 ![Example](/Examples/Default1.png "Default System View")
 
-_PixelPerfect is a theme for emulation station that displays pixels perfectly on 320x240 screens. Installation is the same as any other emulation station theme, just make sure that you're using the newest version of emulation station, as older versions cannot display parts of this theme correctly.
+_PixelPerfect is a theme for emulation station that displays pixels perfectly on 320x240 screens. For installation, just unzip the respective folder and stick the theme in emulation station like normal (Themes folder should be etc/emulationstation/themes). Make sure that you're using the newest version of emulation station, as older versions cannot display parts of this theme correctly.
 
 As of right now there are four versions of this theme.
 
