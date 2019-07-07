@@ -42,5 +42,5 @@ A "kinda" blue theme using the message box from final fantasy, with a feint deca
 
 
 # Credit
-Special thanks to [Grim](http://spritedatabase.net/forums/viewtopic.php?f=4&t=1265) for making the console icons, and [Bobby Schroeder](https://twitter.com/ponettplus/status/686787784930160640) for the All Games icon. the Retropie, Last Played, and Favorites icons were made by yours truly.
+Special thanks to [Grim](http://spritedatabase.net/forums/viewtopic.php?f=4&t=1265) for making the console icons, and [Bobby Schroeder](https://twitter.com/ponettplus/status/686787784930160640) for the All Games icon. The Retropie, Last Played, and Favorites icons were all made by yours truly.
 
